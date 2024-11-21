@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+<<<<<<< HEAD
+=======
+.idea/
+>>>>>>> 3783533 (feat:create app)
 
 # C extensions
 *.so
